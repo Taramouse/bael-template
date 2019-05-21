@@ -6,6 +6,11 @@
   "emailsignup": false,
   "menu": [
     {
+      "name": "Admin",
+      "position": "1",
+      "link": "/admin"
+    },
+    {
       "name": "Nuxt.js",
       "position": "2",
       "link": "https://www.nuxtjs.org/"
@@ -14,11 +19,6 @@
       "name": "Netlify",
       "position": "3",
       "link": "https://www.netlify.com/"
-    },
-    {
-      "name": "Admin",
-      "position": "4",
-      "link": "/admin"
     }
   ]
 }
