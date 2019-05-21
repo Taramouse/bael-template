@@ -1,7 +1,0 @@
-{
-  "title": "How I made this blog.",
-  "date": "Tuesday May 21st, 2019",
-  "thumbnail": "/images/uploads/bael-big.jpg",
-  "category": "Javascript",
-  "body": "This blog was very easy to deploy thanks to the excellent [bael-template](https://github.com/jake-101/bael-template) by [Jake 101](https://jake101.com/)"
-}
