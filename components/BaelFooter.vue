@@ -61,17 +61,15 @@
       </div>
       <div class="xs-text-left xs-p2 xs-border" :class="signupAboutSize">
         <div class="item">
-          <div class="footer__heading xs-mb2">Deploy</div>
-
-          <a href="https://app.netlify.com/start/deploy?repository=https://github.com/jake-101/bael-template">
-            <img style="height:29px;width:auto;" src="~/assets/deploy.svg" title="Deploy to Netlify">
-          </a>
+          <div class="footer__heading xs-mb2">Author</div>
+            <p>A blog by Nicky Keyse</p>
+          
 
         </div>
       </div>
       <div class="c-12 xs-text-left xs-p2 xs-border">
         <div class="item xs-text-6">An open source design by
-          <a href="https://jake101.com">jake101</a>
+          <a href="https://jake101.com" target="new_page">jake101</a>
         </div>
       </div>
     </div>
