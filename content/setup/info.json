@@ -14,6 +14,11 @@
       "name": "Netlify",
       "position": "3",
       "link": "https://www.netlify.com/"
+    },
+    {
+      "name": "Admin",
+      "position": "4",
+      "link": "/admin"
     }
   ]
 }
